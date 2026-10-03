@@ -1,0 +1,13 @@
+{
+  "name": "whitex-store",
+  "version": "1.0.0",
+  "description": "White X Store with Firebase Push Notifications",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "firebase": "^10.7.0",
+    "node-fetch": "^3.3.2"
+  }
+}
